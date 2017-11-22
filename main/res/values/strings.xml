@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="question_australia">Canberra is the capital of australia.</string>
+    <string name="question_oceans"> The Pacific is larger then atlantic.</string>
+    <string name="Question_mideast">The Suez canal connects Red sea and Indian ocean.</string>
+    <string name="question_africa">The source of the Nile river is in Egypt.</string>
+    <string name="question_americas">The amazon river is the longest in the americas</string>
+    <string name="question_asia">Lake Baikal is the worlds oldest and deepest freshwater lake.</string>
+
+
+</resources>
